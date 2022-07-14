@@ -1,4 +1,4 @@
-@Library('pipeline-framework')_
+
 properties(
     [
         [$class: 'RebuildSettings', autoRebuild: false, rebuildDisabled: false], 
