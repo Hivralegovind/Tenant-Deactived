@@ -1,4 +1,4 @@
-@Library('pipeline-framework')_
+#!/usr/bin/env groovy
 properties(
     [
         [$class: 'RebuildSettings', autoRebuild: false, rebuildDisabled: false], 
